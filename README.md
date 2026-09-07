@@ -125,7 +125,7 @@ generata da [`data/kinds.csv`](data/kinds.csv), sullo stesso principio degli epi
 
 ## Pubblicazione su GitHub Pages
 
-1. Crea un repository su GitHub (es. `elnisioleto`) e fai push di questo progetto sul branch
+1. Crea un repository su GitHub (es. `elnisioeto`) e fai push di questo progetto sul branch
    `main`.
 2. Su GitHub vai in **Settings → Pages** e imposta **Source: GitHub Actions**.
 3. Ad ogni push su `main`, il workflow [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml)
@@ -197,7 +197,7 @@ automaticamente.
 - L'immagine `public/og-image.png` è un placeholder (il logo del progetto): sostituiscila con
   un'immagine 1200×630 dedicata quando ne avrai una.
 - Il `<link rel="canonical">` in [`index.html`](index.html) e `sitemap.xml` puntano già a
-  `https://quinta13.github.io/elnisioleto/`: aggiornali se cambi username, nome del repository o
+   `https://quinta13.github.io/elnisioeto/`: aggiornali se cambi username, nome del repository o
   dominio custom.
 - Nessuna dipendenza a pagamento, nessuna chiave API richiesta: le tile mappa arrivano dai server
   pubblici di OpenStreetMap (rispettane la [tile usage policy](https://operations.osmfoundation.org/policies/tiles/)
