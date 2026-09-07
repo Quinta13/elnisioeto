@@ -151,7 +151,7 @@ Se in futuro vorrai un dominio personalizzato (es. `elnisioeto.it`):
 ## Struttura del progetto
 
 ```
-elnisioleto/
+elnisioeto/
 ├── index.html                  markup della pagina (landing + vista mappa + tipologie)
 ├── data/episodes.csv           dati sorgente: un episodio per riga
 ├── data/kinds.csv              dati sorgente: una tipologia di nisioeto per riga
